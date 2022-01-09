@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hairdefinition/static/css/main.e6c13ad2.css",
-    "main.js": "/hairdefinition/static/js/main.40648d37.js",
+    "main.js": "/hairdefinition/static/js/main.57042483.js",
     "static/js/787.1154c9e3.chunk.js": "/hairdefinition/static/js/787.1154c9e3.chunk.js",
     "static/media/weather-img.jpg": "/hairdefinition/static/media/weather-img.9db4f2b1c623bcf11586.jpg",
     "static/media/home-bg-brown.jpg": "/hairdefinition/static/media/home-bg-brown.e5d186a67d6cc7bfb3b4.jpg",
@@ -17,11 +17,11 @@
     "static/media/icon-close.svg": "/hairdefinition/static/media/icon-close.d0a6f1b25be2d782c0381516cd032dea.svg",
     "static/media/icon-hamburger.svg": "/hairdefinition/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
     "main.e6c13ad2.css.map": "/hairdefinition/static/css/main.e6c13ad2.css.map",
-    "main.40648d37.js.map": "/hairdefinition/static/js/main.40648d37.js.map",
+    "main.57042483.js.map": "/hairdefinition/static/js/main.57042483.js.map",
     "787.1154c9e3.chunk.js.map": "/hairdefinition/static/js/787.1154c9e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.40648d37.js"
+    "static/js/main.57042483.js"
   ]
 }
