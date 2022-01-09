@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6c13ad2.css",
-    "main.js": "./static/js/main.dfe93f03.js",
-    "static/js/787.1154c9e3.chunk.js": "./static/js/787.1154c9e3.chunk.js",
-    "static/media/weather-img.jpg": "./static/media/weather-img.9db4f2b1c623bcf11586.jpg",
-    "static/media/home-bg-brown.jpg": "./static/media/home-bg-brown.e5d186a67d6cc7bfb3b4.jpg",
-    "static/media/theme-img.jpg": "./static/media/theme-img.9bf3672023a244c13bcd.jpg",
-    "static/media/hdspa-bg.jpg": "./static/media/hdspa-bg.be176076cb8a7adffa38.jpg",
-    "static/media/home-bg-default.jpg": "./static/media/home-bg-default.f035c03bd00bc03f2f9a.jpg",
-    "static/media/texture-img.jpg": "./static/media/texture-img.fbded9ee4d28c788b402.jpg",
-    "static/media/explore-img.jpg": "./static/media/explore-img.7220543e3cd5efea4829.jpg",
-    "static/media/home-bg-green.jpg": "./static/media/home-bg-green.72eeadc1411487bd557b.jpg",
-    "static/media/catalogue-bg.jpg": "./static/media/catalogue-bg.5ccf8cbab9ef44d1d00c.jpg",
-    "static/media/logo.svg": "./static/media/logo.d6d50a27a4ca82462e072ba9fdb513bd.svg",
-    "index.html": "./index.html",
-    "static/media/icon-close.svg": "./static/media/icon-close.d0a6f1b25be2d782c0381516cd032dea.svg",
-    "static/media/icon-hamburger.svg": "./static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
-    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
-    "main.dfe93f03.js.map": "./static/js/main.dfe93f03.js.map",
-    "787.1154c9e3.chunk.js.map": "./static/js/787.1154c9e3.chunk.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.f5fe757a.js",
+    "static/js/787.1154c9e3.chunk.js": "/static/js/787.1154c9e3.chunk.js",
+    "static/media/weather-img.jpg": "/static/media/weather-img.9db4f2b1c623bcf11586.jpg",
+    "static/media/home-bg-brown.jpg": "/static/media/home-bg-brown.e5d186a67d6cc7bfb3b4.jpg",
+    "static/media/theme-img.jpg": "/static/media/theme-img.9bf3672023a244c13bcd.jpg",
+    "static/media/hdspa-bg.jpg": "/static/media/hdspa-bg.be176076cb8a7adffa38.jpg",
+    "static/media/home-bg-default.jpg": "/static/media/home-bg-default.f035c03bd00bc03f2f9a.jpg",
+    "static/media/texture-img.jpg": "/static/media/texture-img.fbded9ee4d28c788b402.jpg",
+    "static/media/explore-img.jpg": "/static/media/explore-img.7220543e3cd5efea4829.jpg",
+    "static/media/home-bg-green.jpg": "/static/media/home-bg-green.72eeadc1411487bd557b.jpg",
+    "static/media/catalogue-bg.jpg": "/static/media/catalogue-bg.5ccf8cbab9ef44d1d00c.jpg",
+    "static/media/logo.svg": "/static/media/logo.d6d50a27a4ca82462e072ba9fdb513bd.svg",
+    "index.html": "/index.html",
+    "static/media/icon-close.svg": "/static/media/icon-close.d0a6f1b25be2d782c0381516cd032dea.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
+    "main.f5fe757a.js.map": "/static/js/main.f5fe757a.js.map",
+    "787.1154c9e3.chunk.js.map": "/static/js/787.1154c9e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.dfe93f03.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f5fe757a.js"
   ]
 }
