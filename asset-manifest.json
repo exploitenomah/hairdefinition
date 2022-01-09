@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exploitenomah/hairdefinition/static/css/main.e6c13ad2.css",
-    "main.js": "/exploitenomah/hairdefinition/static/js/main.5c39fe51.js",
+    "main.js": "/exploitenomah/hairdefinition/static/js/main.4c65d8ad.js",
     "static/js/787.1154c9e3.chunk.js": "/exploitenomah/hairdefinition/static/js/787.1154c9e3.chunk.js",
     "static/media/weather-img.jpg": "/exploitenomah/hairdefinition/static/media/weather-img.9db4f2b1c623bcf11586.jpg",
     "static/media/home-bg-brown.jpg": "/exploitenomah/hairdefinition/static/media/home-bg-brown.e5d186a67d6cc7bfb3b4.jpg",
@@ -17,11 +17,11 @@
     "static/media/icon-close.svg": "/exploitenomah/hairdefinition/static/media/icon-close.d0a6f1b25be2d782c0381516cd032dea.svg",
     "static/media/icon-hamburger.svg": "/exploitenomah/hairdefinition/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
     "main.e6c13ad2.css.map": "/exploitenomah/hairdefinition/static/css/main.e6c13ad2.css.map",
-    "main.5c39fe51.js.map": "/exploitenomah/hairdefinition/static/js/main.5c39fe51.js.map",
+    "main.4c65d8ad.js.map": "/exploitenomah/hairdefinition/static/js/main.4c65d8ad.js.map",
     "787.1154c9e3.chunk.js.map": "/exploitenomah/hairdefinition/static/js/787.1154c9e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5c39fe51.js"
+    "static/js/main.4c65d8ad.js"
   ]
 }
